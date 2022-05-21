@@ -29,12 +29,12 @@ b. For the hidden units.
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
 ## Algorithm
-1.Import packages.
-2.Defining Sigmoid Function for output.
-3.Derivative of Sigmoid Function.
-4.Initialize variables for training iterations and learning rate.
-5.Defining weight and biases for hidden and output layer.
-6.Updating Weights.
+1. Import packages.
+2. Defining Sigmoid Function for output.
+3. Derivative of Sigmoid Function.
+4. Initialize variables for training iterations and learning rate.
+5. Defining weight and biases for hidden and output layer.
+6. Updating Weights.
 
 ## Program:
 ```
